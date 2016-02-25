@@ -3,3 +3,5 @@
 %uri=https://github.com/jeandti/sqitch.git
 
 schema_escola 2016-02-25T14:23:17Z jeandti <teste@gmail.com> # Add schema for escola
+aluno 2016-02-25T14:42:14Z jeandti <teste@gmail.com> # cria tabela aluno
+@1.0.0-1111 2016-02-25T14:59:19Z jeandti <teste@gmail.com> # tag inicial
