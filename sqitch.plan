@@ -5,3 +5,6 @@
 schema_escola 2016-02-25T14:23:17Z jeandti <teste@gmail.com> # Add schema for escola
 aluno 2016-02-25T14:42:14Z jeandti <teste@gmail.com> # cria tabela aluno
 @1.0.0-1111 2016-02-25T14:59:19Z jeandti <teste@gmail.com> # tag inicial
+
+matricula [aluno schema_escola] 2016-02-25T15:09:48Z jeandti <teste@gmail.com> # criar matricula
+@1.0.0-1234 2016-02-25T15:14:33Z jeandti <teste@gmail.com> # tag segunda
